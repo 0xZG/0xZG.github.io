@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.071b7dcc.css",
+    "main.js": "/static/js/main.820544c2.js",
+    "static/js/595.c9d67f77.chunk.js": "/static/js/595.c9d67f77.chunk.js",
+    "static/js/226.78335870.chunk.js": "/static/js/226.78335870.chunk.js",
+    "static/media/GameView.png": "/static/media/GameView.812a93b706cfc6476fcc.png",
+    "module.wasm": "/f85a2369b2f32182e43b.module.wasm",
+    "static/media/Popup_1.png": "/static/media/Popup_1.bb535be0f698a8830462.png",
+    "static/media/Popup_0.png": "/static/media/Popup_0.f008bc02e362a9b036b6.png",
+    "static/media/SideView.png": "/static/media/SideView.3c6f54d84b9604ab1fef.png",
+    "static/media/bg.jpg": "/static/media/bg.72b4050dc97a7de635cc.jpg",
+    "static/media/Popup_Top.png": "/static/media/Popup_Top.c0a273f0e422ceac112e.png",
+    "static/media/red-block.png": "/static/media/red-block.aca7906ba5bc4ad8c3b9.png",
+    "static/media/blue-block.png": "/static/media/blue-block.7888867914cc5b6708ff.png",
+    "static/media/Button_Green.png": "/static/media/Button_Green.bfa4ae83eed69d472d8f.png",
+    "static/media/Button_Blue.png": "/static/media/Button_Blue.4632a341aee7903e2a2a.png",
+    "static/media/Keyboard.png": "/static/media/Keyboard.96d293cfbba8e5504633.png",
+    "static/media/box-open.png": "/static/media/box-open.7b958b259e9082478959.png",
+    "static/media/box.png": "/static/media/box.6b8c7b6ef9d07d2a9a71.png",
+    "static/media/RanksL.svg": "/static/media/RanksL.074db7fcb758082921c61d36c84976cc.svg",
+    "static/media/Ranks.svg": "/static/media/Ranks.a97772099fcd94cc679f11979ee651a4.svg",
+    "static/media/TutorialL.svg": "/static/media/TutorialL.924d24b7cac76a6432e024c97d0b919d.svg",
+    "static/media/Tutorial.svg": "/static/media/Tutorial.8667e5c1de07c0c4cd8ff5f329e2d720.svg",
+    "static/media/loading-1.svg": "/static/media/loading-1.3c0c966b0356065c464f1bd20a209b23.svg",
+    "index.html": "/index.html",
+    "static/media/restart.svg": "/static/media/restart.76b18c9bfdb0a27785dc51e1815ab39c.svg",
+    "static/media/info.svg": "/static/media/info.b4b418a68de3e28fa02be869629783a6.svg",
+    "main.071b7dcc.css.map": "/static/css/main.071b7dcc.css.map",
+    "main.820544c2.js.map": "/static/js/main.820544c2.js.map",
+    "595.c9d67f77.chunk.js.map": "/static/js/595.c9d67f77.chunk.js.map",
+    "226.78335870.chunk.js.map": "/static/js/226.78335870.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.071b7dcc.css",
+    "static/js/main.820544c2.js"
+  ]
+}

@@ -1,0 +1,88 @@
+<svg width="100%" height="100%" version="1.1" viewBox="0 0 2048 2048" xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    .bt {
+      font-size: 120px;
+      fill: #fff;
+      text-anchor: middle;
+    }
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="1" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#bddc0b" />
+      <stop offset="100%" stop-color="#9574bb" />
+    </linearGradient>
+    <linearGradient id="bg2" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#4fcbe7" />
+      <stop offset="100%" stop-color="#339a00" />
+    </linearGradient>
+    <path id="text-path-a" d="M100,100 H1948 V1948 H100 z" />
+  </defs>
+  <rect x="0" y="0" width="2048" height="2048" fill="url(#bg)" /><svg x="124" y="124" width="1800" height="1800"><svg
+      width="400" height="400" x="0" y="0">
+      <rect x="0" y="0" rx="40" width="400" height="400" fill="url(#bg2)" /><text class="bt bt-2048" x="50%" dy=".3em"
+        y="50%">2048</text>
+    </svg><svg width="400" height="400" x="440" y="0">
+      <rect x="0" y="0" rx="40" width="400" height="400" fill="url(#bg2)" /><text class="bt bt-1024" x="50%" dy=".3em"
+        y="50%">1024</text>
+    </svg><svg width="400" height="400" x="880" y="0">
+      <rect x="0" y="0" rx="40" width="400" height="400" fill="url(#bg2)" /><text class="bt bt-512" x="50%" dy=".3em"
+        y="50%">512</text>
+    </svg><svg width="400" height="400" x="1320" y="0">
+      <rect x="0" y="0" rx="40" width="400" height="400" fill="url(#bg2)" /><text class="bt bt-256" x="50%" dy=".3em"
+        y="50%">256</text>
+    </svg><svg width="400" height="400" x="0" y="440">
+      <rect x="0" y="0" rx="40" width="400" height="400" fill="url(#bg2)" /><text class="bt bt-2" x="50%" dy=".3em"
+        y="50%">2</text>
+    </svg><svg width="400" height="400" x="440" y="440">
+      <rect x="0" y="0" rx="40" width="400" height="400" fill="url(#bg2)" /><text class="bt bt-4" x="50%" dy=".3em"
+        y="50%">4</text>
+    </svg><svg width="400" height="400" x="880" y="440">
+      <rect x="0" y="0" rx="40" width="400" height="400" fill="url(#bg2)" /><text class="bt bt-8" x="50%" dy=".3em"
+        y="50%">8</text>
+    </svg><svg width="400" height="400" x="1320" y="440">
+      <rect x="0" y="0" rx="40" width="400" height="400" fill="url(#bg2)" /><text class="bt bt-16" x="50%" dy=".3em"
+        y="50%">16</text>
+    </svg><svg width="400" height="400" x="0" y="880">
+      <rect x="0" y="0" rx="40" width="400" height="400" fill="url(#bg2)" /><text class="bt bt-32" x="50%" dy=".3em"
+        y="50%">32</text>
+    </svg><svg width="400" height="400" x="440" y="880">
+      <rect x="0" y="0" rx="40" width="400" height="400" fill="url(#bg2)" /><text class="bt bt-64" x="50%" dy=".3em"
+        y="50%">64</text>
+    </svg><svg width="400" height="400" x="880" y="880">
+      <rect x="0" y="0" rx="40" width="400" height="400" fill="url(#bg2)" /><text class="bt bt-128" x="50%" dy=".3em"
+        y="50%">128</text>
+    </svg><svg width="400" height="400" x="1320" y="880">
+      <rect x="0" y="0" rx="40" width="400" height="400" fill="url(#bg2)" /><text class="bt bt-4096" x="50%" dy=".3em"
+        y="50%">4096</text>
+    </svg><svg width="400" height="400" x="0" y="1320">
+      <rect x="0" y="0" rx="40" width="400" height="400" fill="url(#bg2)" /><text class="bt bt-8192" x="50%" dy=".3em"
+        y="50%">8192</text>
+    </svg><svg width="400" height="400" x="440" y="1320">
+      <rect x="0" y="0" rx="40" width="400" height="400" fill="url(#bg2)" /><text class="bt bt-16384" x="50%" dy=".3em"
+        y="50%">16384</text>
+    </svg><svg width="400" height="400" x="880" y="1320">
+      <rect x="0" y="0" rx="40" width="400" height="400" fill="url(#bg2)" /><text class="bt bt-32768" x="50%" dy=".3em"
+        y="50%">32768</text>
+    </svg><svg width="400" height="400" x="1320" y="1320">
+      <rect x="0" y="0" rx="40" width="400" height="400" fill="url(#bg2)" /><text class="bt bt-65536" x="50%" dy=".3em"
+        y="50%">65536</text>
+    </svg></svg><text text-rendering="optimizeSpeed">
+    <textPath startOffset="-100%" fill="white" font-size="90px" xlink:href="#text-path-a">Score(1835012) Time(39m 10s)
+      <animate additive="sum" attributeName="startOffset" from="0%" to="100%" begin="0s" dur="30s"
+        repeatCount="indefinite" />
+    </textPath>
+    <textPath startOffset="0%" fill="white" font-size="90px" xlink:href="#text-path-a">Score(1835012) Time(39m 10s)
+      <animate additive="sum" attributeName="startOffset" from="0%" to="100%" begin="0s" dur="30s"
+        repeatCount="indefinite" />
+    </textPath>
+    <textPath startOffset="-50%" fill="white" font-size="90px" xlink:href="#text-path-a">Score(1835012) Time(39m 10s)
+      <animate additive="sum" attributeName="startOffset" from="0%" to="100%" begin="0s" dur="30s"
+        repeatCount="indefinite" />
+    </textPath>
+    <textPath startOffset="50%" fill="white" font-size="90px" xlink:href="#text-path-a">Score(1835012) Time(39m 10s)
+      <animate additive="sum" attributeName="startOffset" from="0%" to="100%" begin="0s" dur="30s"
+        repeatCount="indefinite" />
+    </textPath>
+  </text>
+</svg>
